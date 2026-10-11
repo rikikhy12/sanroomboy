@@ -1,0 +1,10 @@
+#Sun Oct 11 09:27:37 ICT 2026
+base.2=D\:\\backuptoko\\sanRoomboy\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes3.dex
+path.2=classes3.dex
+base.1=D\:\\backuptoko\\sanRoomboy\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\backuptoko\\sanRoomboy\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
